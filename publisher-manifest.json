@@ -1,0 +1,122 @@
+{
+  "version": 2,
+  "template_version": "d39ce472eeb3cc3f10e7",
+  "page_size": 20,
+  "site_id": "4ecc788001248aab896745a6",
+  "owner": "umyftfpqn",
+  "repo": "page-89a15526fd767136c0a3ac21",
+  "title": "UU",
+  "mode": "repo",
+  "articles": [
+    {
+      "id": "89a15526fd767136c0a3ac21",
+      "a": "UU",
+      "b": "2027最新官网",
+      "entity": "UU",
+      "brand": "UU",
+      "separator": "|",
+      "path": "index.html",
+      "hash": "d03afe91efeee49bfab87186fced0402268c5b4789e43e0d29d67eb691b84600",
+      "content": {
+        "primary_entity": "UU",
+        "keyword1": "UU",
+        "keyword2": "2027最新官网",
+        "content": {
+          "AI_CLIENTS_INTRO": "按设备挑客户端：桌面、移动与路由器各有适配版本。",
+          "AI_CLIENTS_TITLE": "客户端选择",
+          "AI_CLOSING_TEXT": "先定设备与流量，再选月付或年付，配置更快。",
+          "AI_CLOSING_TITLE": "选对套餐，开箱即用",
+          "AI_DESCRIPTION": "，为需要跨境访问的用户提供多档订阅选择。基础版每月 100GB 流量、3 台设备，适合手机与笔记本日常使用；旗舰版每月 300GB、5 台设备，并含 IPLC 专线游戏加速优化；团队版每月 1000GB、20 台设备，适合小型工作室。三个档位都支持按月或按年付费，年付方案更省。",
+          "AI_FEATURES_INTRO": "围绕设备数量、流量与订阅周期看三项差异。",
+          "AI_FEATURES_TITLE": "为什么选 UU",
+          "AI_FEATURE_TEXT_1": "基础版 3 台设备、旗舰版 5 台、团队版 20 台，按常用设备数挑选即可。",
+          "AI_FEATURE_TEXT_2": "从每月 100GB 到 1000GB 三档流量，按日常用量匹配不浪费。",
+          "AI_FEATURE_TEXT_3": "月付灵活，年付按 ¥150、¥350、¥850 结算，长期使用更划算。",
+          "AI_FEATURE_TITLE_1": "设备匹配",
+          "AI_FEATURE_TITLE_2": "流量阶梯",
+          "AI_FEATURE_TITLE_3": "周期灵活",
+          "AI_GUIDE_INTRO": "从选套餐到连上节点，三步完成配置。",
+          "AI_GUIDE_TITLE": "配置步骤",
+          "AI_HERO_INTRO": "UU 提供基础版、旗舰版与团队版三档订阅，覆盖 3 台到 20 台设备、每月 100GB 到 1000GB 流量，支持月付与年付。旗舰版与团队版面向游戏加速与高带宽场景，适合对线路稳定性有要求的用户。",
+          "AI_HERO_SUBTITLE": "多档订阅，适配不同设备",
+          "AI_HIGHLIGHT_1": "三档套餐覆盖 3-20 台设备",
+          "AI_HIGHLIGHT_2": "100GB 至 1000GB 月流量可选",
+          "AI_HIGHLIGHT_3": "支持月付与年付灵活切换",
+          "AI_PLANS_INTRO": "基础版 ¥15/月、旗舰版 ¥35/月、团队版 ¥85/月，按年付分别 ¥150、¥350、¥850。设备多、流量大选团队版；日常使用基础版够用。",
+          "AI_PLANS_TITLE": "套餐对比",
+          "AI_STEP_TEXT_1": "按常用设备数量和月流量，从基础版、旗舰版、团队版中选定一档。",
+          "AI_STEP_TEXT_2": "查看所选套餐支持的设备数量和流量额度，确认是否满足日常需要。",
+          "AI_STEP_TEXT_3": "安装对应客户端，按客户端说明导入订阅配置即可开始使用。",
+          "AI_STEP_TITLE_1": "选服务",
+          "AI_STEP_TITLE_2": "看适配",
+          "AI_STEP_TITLE_3": "配订阅",
+          "AI_VISUAL_TITLE": "UU 加速订阅",
+          "AI_FAQ_ANSWER_1": "按同时在线设备数判断：3 台以内选基础版，5 台左右选旗舰版，20 台或团队使用选团队版。",
+          "AI_FAQ_ANSWER_2": "月付适合短期体验，年付折算后月均更低。基础版年付 ¥150，旗舰版年付 ¥350，团队版年付 ¥850。",
+          "AI_FAQ_ANSWER_3": "旗舰版和团队版覆盖全节点原生流媒体解锁，基础版支持基础流媒体，可按主要使用场景选择。",
+          "AI_FAQ_ANSWER_4": "可以。同一订阅可在不同设备登录客户端使用，同时在线设备数以所选套餐规格为准。",
+          "AI_FAQ_ANSWER_5": "基础版为普通线路节点池，旗舰版含 IPLC 专线并针对游戏加速优化，团队版提供 VIP 专属高带宽节点。",
+          "AI_FAQ_INTRO": "订阅导入、设备限制与付费周期。",
+          "AI_FAQ_QUESTION_1": "UU 不同套餐适合哪些设备数量？",
+          "AI_FAQ_QUESTION_2": "月付和年付怎么选择更划算？",
+          "AI_FAQ_QUESTION_3": "流媒体解锁在哪个套餐中提供？",
+          "AI_FAQ_QUESTION_4": "可以在多台设备上使用同一订阅吗？",
+          "AI_FAQ_QUESTION_5": "线路类型对游戏和视频体验有什么影响？",
+          "AI_FAQ_TITLE": "常见问题"
+        },
+        "plans": [
+          {
+            "name": "基础版",
+            "price": "¥15/月",
+            "annual_price": "按年付仅需 ¥150/年",
+            "features": [
+              "每月 100GB 极速流量",
+              "支持 3 台设备同时在线",
+              "解锁基础流媒体",
+              "普通线路节点池"
+            ]
+          },
+          {
+            "name": "旗舰版",
+            "price": "¥35/月",
+            "annual_price": "按年付仅需 ¥350/年",
+            "featured": true,
+            "features": [
+              "每月 300GB 极速流量",
+              "支持 5 台设备同时在线",
+              "全节点原生流媒体解锁",
+              "IPLC 专线游戏加速优化",
+              "7x24 优先工单支持"
+            ]
+          },
+          {
+            "name": "团队版",
+            "price": "¥85/月",
+            "annual_price": "按年付仅需 ¥850/年",
+            "features": [
+              "每月 1000GB 极速流量",
+              "支持 20 台设备同时在线",
+              "VIP 专属高带宽节点",
+              "支持企业定制路由",
+              "专属客户经理服务"
+            ]
+          }
+        ],
+        "clients": []
+      }
+    }
+  ],
+  "domain": {
+    "apex": "hongxingjc.com",
+    "host": "hongxingjc.com"
+  },
+  "file_hashes": {
+    "index.html": "db7d7a60cc9d6e4dee66f63217896c8b45dedaa62e70581ca8d158eb86d7d3e3",
+    "sitemap.xml": "085dcb0fac609774b372a07dc454864507080731e8255f655b935a8b716fd5de",
+    ".nojekyll": "12ae32cb1ec02d01eda3581b127c1fee3b0dc53572ed6baf239721a03d82e126",
+    "CNAME": "4795e1fdd88e98d2c91cf05f87e64e298d1e4a8560114ee16958f6f44fb1b515",
+    "robots.txt": "d485b001df6d046e9cbe144875c4aae37d2f0863dd8020fe875594e18fc59f5c",
+    "c624e400731942ca9977894c27c1523b.txt": "871b711391d6fb32fc3ba56ee111e352b8c08a7815ad9cdc3a1e3de41d68b4cc"
+  },
+  "revision": "cba6e6f04fb41a0de5294c7302d18e9c8975aeac6f2762913fa04f7d14d353e0"
+}
